@@ -1,4 +1,5 @@
 matplotlib==3.7.1
-streamlit
-pandas
-seaborn
+streamlit==1.28.0
+pandas==2.1.0
+seaborn==0.12.2
+numpy==1.24.0  # Often required as a dependency
